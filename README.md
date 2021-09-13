@@ -35,7 +35,7 @@
         공식 홈페이지 https://docs.docker.com/compose/install/
 
     2. 컨네이터 생성
-        $ docker-compose -f ./redis_docker.yml
+        $ docker-compose -f ./redis_docker.yml up
 
         컨테이너가 성공적으로 생성이 됐다면 " control + c " 를 통해 환경에서 벗어난다.
 
