@@ -16,6 +16,9 @@
 ## 개발환경 설정(Development Environment Setting)
 
 ```
+- Node version
+  - 16.x
+
 - Integration
 
   - 모듈 설치(Modules Install)
